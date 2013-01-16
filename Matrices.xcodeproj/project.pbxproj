@@ -6,10 +6,19 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		94413EE216A23FDA00954768 /* matrices.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = matrices.py; sourceTree = "<group>"; };
+		94413EE316A2533900954768 /* test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
+		94413EE416A25DE800954768 /* example.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = example.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		94413ED516A23F8500954768 = {
 			isa = PBXGroup;
 			children = (
+				94413EE216A23FDA00954768 /* matrices.py */,
+				94413EE316A2533900954768 /* test.py */,
+				94413EE416A25DE800954768 /* example.py */,
 			);
 			sourceTree = "<group>";
 		};
